@@ -1,0 +1,15 @@
+{
+  "name": "solace-pubsub-demo",
+  "version": "1.0.0",
+  "description": "A simple demo of Solace PubSub+ messaging",
+  "main": "index.js",
+  "scripts": {
+    "start-publisher": "node publisher.js",
+    "start-subscriber": "node subscriber.js",
+    "ecommerce-publisher": "node ecommerce-publisher.js",
+    "ecommerce-subscriber": "node ecommerce-subscriber.js"
+  },
+  "dependencies": {
+    "solclientjs": "^10.18.0"
+  }
+}
