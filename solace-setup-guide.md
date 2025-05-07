@@ -123,7 +123,7 @@ For our event-driven architecture, we set up a hierarchical topic structure:
        solaceHost: 'wss://mr-connection-v5fuflj987h.messaging.solace.cloud:443',
        messageVpn: 'test',
        username: 'solace-cloud-client',
-       password: 'Ultimate13!',
+       password: 'Test13!',
        // ... other configuration
      };
      ```
