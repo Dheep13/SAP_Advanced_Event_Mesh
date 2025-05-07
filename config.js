@@ -5,7 +5,7 @@ module.exports = {
   solaceHost: 'wss://mr-connection-v5fuflj987h.messaging.solace.cloud:443', // Solace Cloud host URL
   messageVpn: 'test',                                                       // Your message VPN
   username: 'solace-cloud-client',                                          // Your username
-  password: 'Ultimate13!',                                                  // Your password
+  password: 'Test123!',                                                  // Your password
 
   // Basic topic for simple demos
   topicName: 'sample/topic',
